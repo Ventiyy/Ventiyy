@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Currently working on **Alvora Development** – focused on Discord bots, web utilities, and community tools.
+- 👨‍💻 Currently working on **Alvora Development** – focused on FiveM Scripts and more.
 - 💬 Actively coding in **Lua, JavaScript/TypeScript, PHP, Python**, and **Vue.js**.
 - 🤝 Join our community: [discord.gg/alvora](https://discord.gg/alvora)
 - 📫 Reach me on Discord: **ventiyy**
