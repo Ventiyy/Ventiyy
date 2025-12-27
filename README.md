@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm ventiyy</h1>
 <p align="center">
-  🔧 Lua, JavaScript, TypeScript, PHP, Python, Vue • Building cool stuff @ <a href="https://discord.gg/alvora">Alvora Development</a>
+  🔧 Lua, JavaScript, TypeScript, PHP, Python, Vue • Building cool stuff & tools
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 Currently working on **Alvora Development** – focused on FiveM Scripts and more.
+- 👨‍💻 Independent developer – focused on FiveM Scripts, Discord Bots and Web Tools.
 - 💬 Actively coding in **Lua, JavaScript/TypeScript, PHP, Python**, and **Vue.js**.
-- 🤝 Join our community: [discord.gg/alvora](https://discord.gg/alvora)
 - 📫 Reach me on Discord: **ventiyy**
 
 ---
@@ -22,14 +21,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
----
-
-### 📌 Projects
-
-- 🧱 **Alvora Development**   
-  → [Join our server](https://discord.gg/alvora)
-
 
 ---
 
