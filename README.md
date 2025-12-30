@@ -10,3 +10,7 @@
   <br />
   discord: <strong>ventiyy</strong>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ventiyy&label=views&color=lightgrey&style=flat" />
+</p>
