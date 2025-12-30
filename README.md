@@ -8,5 +8,5 @@
 <p align="center">
   working on FiveM scripts · Discord bots · web applications  
   <br />
-  contact: <strong>ventiyy</strong>
+  discord: <strong>ventiyy</strong>
 </p>
